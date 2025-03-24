@@ -19,6 +19,7 @@ datasets = "^3.2.0"
 bm25s = "^0.2.6"
 rouge-score = "^0.1.2"
 tqdm = "^4.67.1"
+ragas = "^0.2.14"
 
 
 [tool.poetry.group.dev.dependencies]
